@@ -1,0 +1,30 @@
+# Datasets and generated prompts
+data/
+datasets/
+generated_prompts/
+
+# Model weights and training outputs
+checkpoints/
+work_dirs/
+outputs/
+runs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Archives and local caches
+*.zip
+*.tar
+*.tar.gz
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and editor files
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
