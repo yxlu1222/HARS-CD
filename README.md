@@ -22,6 +22,4 @@ All experiments use public benchmarks: [LEVIR-CD](https://justchenhao.github.io/
 
 The license will be provided with the code release.
 
-## Contact
 
-Corresponding author: Prof. Ke Wang (`22014@ahu.edu.cn`). For questions about the code, please open an issue.
